@@ -4314,6 +4314,8 @@ STR_5998    :Aggiungi denaro
 STR_5999    :Imposta denaro
 STR_6000    :Inserire il nuovo valore
 
+STR_6012    :{COMMA1DP16}
+
 
 #############
 # Scenarios #
