@@ -4303,6 +4303,8 @@ STR_5998    :Toevoegen
 STR_5999    :Instellen
 STR_6000    :Voer een bedrag in
 
+STR_6012    :{COMMA1DP16}
+
 #############
 # Scenarios #
 #############
