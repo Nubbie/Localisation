@@ -4229,6 +4229,8 @@ STR_5917    :{COMMA16} spillere
 STR_5918    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_5919    :{COMMA16}
 
+STR_6012    :{COMMA1DP16}
+
 #############
 # Scenarios #
 ################
