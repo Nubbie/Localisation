@@ -4301,6 +4301,8 @@ STR_5988    :{SMALLFONT}{BLACK}Plus de terrain à vendre
 STR_5989    :{SMALLFONT}{BLACK}Plus de droits de construction à vendre
 STR_5990    :{SMALLFONT}{BLACK}Plus de terrain ou de droits de construction à vendre
 
+STR_6012    :{COMMA1DP16}
+
 #############
 # Scenarios #
 ################
