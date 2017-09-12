@@ -19,3 +19,6 @@ Updated in:
 - [ ] zh-CN
 - [ ] zh-TW
 - [ ] ca-ES
+
+Notifications when new strings arrive:
+@Nubbie
