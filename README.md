@@ -61,8 +61,9 @@ One simple way to test the new language is to copy the whole document you've tra
 | [![](https://img.shields.io/badge/hu--HU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/hu-HU.txt)     |                                              | ![](https://api.openrct2.website/localisation/status/badges/hu-HU) | 
 | [![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt)     |                                              | ![](https://api.openrct2.website/localisation/status/badges/ru-RU) | 
 
+|       | |
 | -------- | ---------- | ----------- | 
-| en-US only changes strings that differ from UK  <!-- Languages that is really outdated with strings missing from OpenRCT2/vanilla-->          |                                              |                                                                    | 
+| en-US only changes strings that differ from UK  <!-- Languages that is really outdated with strings missing from OpenRCT2/vanilla-->                                                                                                                            | 
 | [![](https://img.shields.io/badge/en--US-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/en-US.txt) | -Anyone-                                     | ![](https://api.openrct2.website/localisation/status/badges/en-US) |
 
 Note:  The status bars can be inaccurate & some maintainers can be more inactive than others.<br/>
