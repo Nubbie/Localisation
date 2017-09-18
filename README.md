@@ -40,7 +40,6 @@ One simple way to test the new language is to copy the whole document you've tra
 | Language | Maintainer | Status Bars |
 | -------- | ---------- | ----------- | 
 | [![](https://img.shields.io/badge/en--GB-maintained-green.svg)](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt   ) | -Anyone-                                     | ![](https://api.openrct2.website/localisation/status/badges/en-GB) | 
-| [![](https://img.shields.io/badge/en--US-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/en-US.txt) | -Anyone-                                     | ![](https://api.openrct2.website/localisation/status/badges/en-US) |
 | [![](https://img.shields.io/badge/ca--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ca-ES.txt) | [J0anJosep](https://github.com/J0anJosep)    | ![](https://api.openrct2.website/localisation/status/badges/ca-ES) | 
 | [![](https://img.shields.io/badge/cs--CZ-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/cs-CZ.txt) | [octaroot](https://github.com/octaroot)      | ![](https://api.openrct2.website/localisation/status/badges/cs-CZ) | 
 | [![](https://img.shields.io/badge/de--DE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/de-DE.txt) | [danidoedel](https://github.com/danidoedel)  | ![](https://api.openrct2.website/localisation/status/badges/de-DE) | 
@@ -48,7 +47,7 @@ One simple way to test the new language is to copy the whole document you've tra
 | [![](https://img.shields.io/badge/fr--FR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-FR.txt) | [rvgr](https://github.com/rvgr)              | ![](https://api.openrct2.website/localisation/status/badges/fr-FR) | 
 | [![](https://img.shields.io/badge/it--IT-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/it-IT.txt) | [LucaRed](https://github.com/LucaRed)        | ![](https://api.openrct2.website/localisation/status/badges/it-IT) | 
 | [![](https://img.shields.io/badge/ko--KR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ko-KR.txt) | [telk5093](https://github.com/telk5093)      | ![](https://api.openrct2.website/localisation/status/badges/ko-KR) | 
-| [![](https://img.shields.io/badge/nb--NO-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt)  | [Goddesen](https://github.com/Goddesen)     | ![](https://api.openrct2.website/localisation/status/badges/nb-NO) | 
+| [![](https://img.shields.io/badge/nb--NO-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt) | [Goddesen](https://github.com/Goddesen)      | ![](https://api.openrct2.website/localisation/status/badges/nb-NO) | 
 | [![](https://img.shields.io/badge/nl--NL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nl-NL.txt) | [Gymnasiast ](https://github.com/Gymnasiast )| ![](https://api.openrct2.website/localisation/status/badges/nl-NL) | 
 | [![](https://img.shields.io/badge/pt--BR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pt-BR.txt) | [renansimoes](https://github.com/renansimoes)| ![](https://api.openrct2.website/localisation/status/badges/pt-BR) | 
 | [![](https://img.shields.io/badge/sv--SE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/sv-SE.txt) | [Nubbie](https://github.com/Nubbie)          | ![](https://api.openrct2.website/localisation/status/badges/sv-SE) | 
@@ -61,6 +60,9 @@ One simple way to test the new language is to copy the whole document you've tra
 | Outdated <!-- Languages that is really outdated with strings missing from OpenRCT2/vanilla-->                                                 |                                              |                                                                    | 
 | [![](https://img.shields.io/badge/hu--HU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/hu-HU.txt)     |                                              | ![](https://api.openrct2.website/localisation/status/badges/hu-HU) | 
 | [![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt)     |                                              | ![](https://api.openrct2.website/localisation/status/badges/ru-RU) | 
+
+| en-US only changes strings that differ from UK  <!-- Languages that is really outdated with strings missing from OpenRCT2/vanilla-->          |                                              |                                                                    | 
+| [![](https://img.shields.io/badge/en--US-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/en-US.txt) | -Anyone-                                     | ![](https://api.openrct2.website/localisation/status/badges/en-US) |
 
 Note:  The status bars can be inaccurate & some maintainers can be more inactive than others.<br/>
 Anyone can still contribute to the languages. 
