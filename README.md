@@ -64,7 +64,7 @@ To do this, go to the directory where OpenRCT2 resides (not to be confused with 
 | [![](https://img.shields.io/badge/zh--TW-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-TW.txt) | [daihakken](https://github.com/daihakken)         |
 | Not maintained <!-- Languages that are outdated with strings missing from OpenRCT2/vanilla-->| |                                                 
 | [![](https://img.shields.io/badge/fi--FI-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fi-FI.txt)  |                                                    |
-| [![](https://img.shields.io/badge/sv--SE-outdated-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/sv-SE.txt) |                                                    |
+| [![](https://img.shields.io/badge/sv--SE-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/sv-SE.txt) |                                                    |
 | [![](https://img.shields.io/badge/tr--TR-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/tr-TR.txt)  |                                                    |
 | [![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt)     |                                                    |
 
